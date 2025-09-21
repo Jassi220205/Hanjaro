@@ -18,39 +18,25 @@ What’s missing is a Doc Checker Agent that:
 4. Monitors external updates (like a policy page) to highlight new issues.
 
 Objective
-
 Build a Smart Doc Checker Agent that scans multiple documents, flags contradictions, and reports issues clearly.
 
-Expected Deliverables
+Expected Deliverables:
+-File upload portal for 2–3 documents
+-AI highlights conflicts with explanations
+-Auto-generated report listing all contradictions
+-Usage counter for number of docs checked / reports made
 
-File upload portal for 2–3 documents
+Flexprice Integration Requirement:
+-Bill per document analyzed
+-Bill per report generated
+-Show usage count visibly in the app
 
-AI highlights conflicts with explanations
+Pathway Integration Requirement:
+-Use Pathway to monitor an external doc/policy update (mock example: “college rule page”)
+-Trigger conflict detection when update arrives
 
-Auto-generated report listing all contradictions
-
-Usage counter for number of docs checked / reports made
-
-Flexprice Integration Requirement
-
-Bill per document analyzed
-
-Bill per report generated
-
-Show usage count visibly in the app
-
-Pathway Integration Requirement
-
-Use Pathway to monitor an external doc/policy update (mock example: “college rule page”)
-
-Trigger conflict detection when update arrives
-
-Evaluation Criteria
-
-Accuracy of flagged contradictions
-
-Simplicity and clarity of UI
-
-Proper Flexprice billing
-
-Bonus for showing live external updates
+Evaluation Criteria:
+-Accuracy of flagged contradictions
+-Simplicity and clarity of UI
+-Proper Flexprice billing
+-Bonus for showing live external updates
